@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :telescope: I’m working as a Software Engineer building web applications and also dabble in building machine learning systems.
+- :telescope: I’m a Software Engineer building web applications and also dabble in building machine learning systems.
 
 - :seedling: I'm exploring technical writing and system design.
 
