@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- :telescope: I’m a Software Engineer building web applications and also dabbling in building machine learning systems.
+- :telescope: I’m a Software Engineer building web applications and dabbling in building machine learning systems.
 
-- :seedling: I'm exploring technical writing and system design.
+- :seedling: I'm exploring developer advocacy,technical writing and system design.
 
 - :zap: In my free time, I enjoy reading and writing tech articles.
 
@@ -11,9 +11,9 @@
 ---
 
 ### :writing_hand: Blog Posts :
-- [Fetch API Data on Button Click in React](https://dev.to/wanguiwaweru/fetch-api-data-on-button-click-in-react-513i)
 - [How to Build a Machine Learning Pipeline With Scikit-Learn in Python](https://www.turing.com/kb/building-ml-pipeline-in-python-with-scikit-learn)
-- [Building a MERN Stack Application to Manage ISP](https://www.section.io/engineering-education/build-mern-stack-application-to-manage-isp/)
 - [Graphs in Python](https://dev.to/wanguiwaweru/graphs-in-python-1pom)
+- [Building a MERN Stack Application to Manage ISP](https://www.section.io/engineering-education/build-mern-stack-application-to-manage-isp/)
+- [Fetch API Data on Button Click in React](https://dev.to/wanguiwaweru/fetch-api-data-on-button-click-in-react-513i)
 
 
