@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - :telescope: I’m a Software Engineer building web applications and dabbling in building machine learning systems.
-
-- :seedling: I'm exploring developer advocacy,technical writing and system design.
-
+  
 - :zap: In my free time, I enjoy reading and writing tech articles.
 
 - :mailbox:How to reach me: [Linkedin](https://www.linkedin.com/in/wangui-waweru-bernice/)
