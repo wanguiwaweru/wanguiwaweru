@@ -12,7 +12,6 @@
 - [Medium Articles](https://medium.com/@wanguiwawerub)
 - [How to Build a Machine Learning Pipeline With Scikit-Learn in Python](https://www.turing.com/kb/building-ml-pipeline-in-python-with-scikit-learn)
 - [Graphs in Python](https://dev.to/wanguiwaweru/graphs-in-python-1pom)
-- [Building a MERN Stack Application to Manage ISP](https://www.section.io/engineering-education/build-mern-stack-application-to-manage-isp/)
 - [Fetch API Data on Button Click in React](https://dev.to/wanguiwaweru/fetch-api-data-on-button-click-in-react-513i)
 
 
