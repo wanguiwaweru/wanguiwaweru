@@ -3,9 +3,6 @@
 - :telescope: I’m a Software Engineer building web applications and dabbling in building machine learning systems.
   
 - :zap: In my free time, I enjoy reading and writing tech articles.
-
-- How to reach me: [Linkedin](https://www.linkedin.com/in/wangui-waweru-bernice/)
-
 ---
 
 ### Blog Posts
