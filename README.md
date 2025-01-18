@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :telescope: I’m a Software Engineer building web applications and dabbling in building machine learning systems.
+- :telescope: I’m a Software Engineer.
   
 - :zap: In my free time, I enjoy reading and writing tech articles.
 ---
